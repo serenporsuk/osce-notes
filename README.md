@@ -1,11 +1,9 @@
 # osce-notes
 
-# Osce Register
-
-https://archiveos.org/backtrack/
-
 
 OSCE Study Plan (https://www.abatchy.com/2017/03/osce-study-plan)
+
+
 
 ### ASSEMBLY 
 
@@ -28,12 +26,31 @@ http://eng.harran.edu.tr/~nbesli/RBT/helptr.htm
 
 ### Bypassing AV 
 
+Tools:
+
+Immunity Debugger or OllyDbg
+LordPE or PE explorer
+XVI32
+
+
 https://dl.packetstormsecurity.net/papers/bypass/bypassing-av.pdf
 
 https://captmeelo.com/exploitdev/osceprep/2018/07/16/backdoor101-part1.html
 
 https://captmeelo.com/exploitdev/osceprep/2018/07/21/backdoor101-part2.html
 
+https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/
+
+https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/
+
+https://sector876.blogspot.com/2013/03/backdooring-pe-files-part-1.html
+
+
+### Egg Hunters
+
+https://www.fuzzysecurity.com/tutorials/expDev/4.html
+
+https://www.corelan.be/index.php/2010/01/09/exploit-writing-tutorial-part-8-win32-egg-hunting/
 
 
 
